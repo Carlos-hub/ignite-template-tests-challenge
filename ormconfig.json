@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "username": "docker",
   "password": "ignite",
+=======
+  "username": "postgres",
+  "password": "docker",
+>>>>>>> 9e595c8b0f4f80bf7eab7a3b0e834f9a24cb1981
 
   "name": "default",
   "type": "postgres",
